@@ -29,6 +29,7 @@ This project is designed to feel like a **real calculator**, making it more fun 
 - **GUI Library:** Tkinter  
 ---
 📸 Screenshot
+![image_alt](https://github.com/vikas122112/Calculator/blob/main/Screenshot%202025-10-03%20220524.png?raw=true)
 ---
 📚 Learning Outcomes
 
