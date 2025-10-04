@@ -28,10 +28,10 @@ This project is designed to feel like a **real calculator**, making it more fun 
 - **Language:** Python 🐍  
 - **GUI Library:** Tkinter  
 ---
-📸 Screenshot
+## 📸 Screenshot
 ![image_alt](https://github.com/vikas122112/Calculator/blob/main/Screenshot%202025-10-03%20220524.png?raw=true)
 ---
-📚 Learning Outcomes
+##📚 Learning Outcomes
 
 By creating this project, you’ll learn:
 
@@ -41,20 +41,18 @@ Event handling in Python (button clicks)
 
 Using functions to handle math operations
 
-Designing clean and user-friendly applications
 ---
 
-🔮 Future Improvements
+##🔮 Future Improvements
 
 Add scientific calculator functions (sin, cos, log, power, etc.)
 
 Add dark/light mode toggle 🌗
 
 Save previous calculations (history feature) 📝
-
-👨‍💻 About the Developer
 ---
 
+##👨‍💻 About the Developer
 Hi, I’m Vikas 👋
 
 🎓 B.Tech CSE Student
