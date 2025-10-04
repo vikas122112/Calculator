@@ -26,12 +26,15 @@ This project is designed to feel like a **real calculator**, making it more fun 
 
 ## 🛠 Tech Stack  
 - **Language:** Python 🐍  
-- **GUI Library:** Tkinter  
+- **GUI Library:** Tkinter
+  
 ---
 ## 📸 Screenshot
 ![image_alt](https://github.com/vikas122112/Calculator/blob/main/Screenshot%202025-10-03%20220524.png?raw=true)
+
 ---
-##📚 Learning Outcomes
+
+📚 Learning Outcomes
 
 By creating this project, you’ll learn:
 
@@ -43,16 +46,19 @@ Using functions to handle math operations
 
 ---
 
-##🔮 Future Improvements
+🔮 Future Improvements
 
 Add scientific calculator functions (sin, cos, log, power, etc.)
 
 Add dark/light mode toggle 🌗
 
 Save previous calculations (history feature) 📝
+
 ---
 
-##👨‍💻 About the Developer
+👨‍💻 About the Developer
+
+
 Hi, I’m Vikas 👋
 
 🎓 B.Tech CSE Student
@@ -62,12 +68,14 @@ Hi, I’m Vikas 👋
 🤖 Interested in AI/ML & software development and web development
 
 🚀 Love creating projects that solve real problems
+
 ---
 ⭐ Final Note
 
 This project shows how Python + Tkinter can be used to build real-world applications with clean design and full functionality.
 
 If you liked it, don’t forget to star ⭐ this repository and try improving it further.
+
 ---
 
 “Learning never exhausts the mind.” – Leonardo da Vinci
