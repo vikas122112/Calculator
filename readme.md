@@ -44,6 +44,7 @@ Event handling in Python (button clicks)
 Using functions to handle math operations
 
 Designing clean and user-friendly applications
+---
 
 🔮 Future Improvements
 
@@ -54,6 +55,7 @@ Add dark/light mode toggle 🌗
 Save previous calculations (history feature) 📝
 
 👨‍💻 About the Developer
+---
 
 Hi, I’m Vikas 👋
 
@@ -64,11 +66,12 @@ Hi, I’m Vikas 👋
 🤖 Interested in AI/ML & software development and web development
 
 🚀 Love creating projects that solve real problems
-
+---
 ⭐ Final Note
 
 This project shows how Python + Tkinter can be used to build real-world applications with clean design and full functionality.
 
 If you liked it, don’t forget to star ⭐ this repository and try improving it further.
+---
 
 “Learning never exhausts the mind.” – Leonardo da Vinci
