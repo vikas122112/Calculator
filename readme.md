@@ -28,9 +28,6 @@ This project is designed to feel like a **real calculator**, making it more fun 
 - **Language:** Python 🐍  
 - **GUI Library:** Tkinter  
 ---
-## Run the Program
-python calculator.py
----
 📸 Screenshot
 ---
 📚 Learning Outcomes
